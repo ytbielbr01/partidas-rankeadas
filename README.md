@@ -35,3 +35,8 @@ _Sistema desenvolvido para campeonatos de jogos eletrônicos de pontos corridos!
 ➜ _Atualizar Ranks:_ Atualiza os nicknames dos jogadores em um intervalo de tempo de cinco minutos; Exemplo: RANK 1 - <nickname>
 
 ➜ _Ready:_ Ao iniciar a aplicação, será enviado uma mensagem no console ou chat informando!
+
+
+# PRÉVIAS
+
+![/Perfil](https://imgur.com/SYeJYuy.png) ![/Rank](https://imgur.com/vUkgxBu.png) ![/Partida](https://imgur.com/F1s4k3n.png) ![/DentroDaPartida](https://imgur.com/GZhigU9.png) ![/Nickname](https://imgur.com/GlEzmOM.png)
