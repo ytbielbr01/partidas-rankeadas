@@ -39,4 +39,8 @@ _Sistema desenvolvido para campeonatos de jogos eletrônicos de pontos corridos!
 
 # PRÉVIAS
 
-![/Perfil](https://imgur.com/SYeJYuy.png) ![/Rank](https://imgur.com/vUkgxBu.png) ![/Partida](https://imgur.com/F1s4k3n.png) ![/DentroDaPartida](https://imgur.com/GZhigU9.png) ![/Nickname](https://imgur.com/GlEzmOM.png)
+![Perfil](https://imgur.com/SYeJYuy.png) ![Rank](https://imgur.com/vUkgxBu.png) ![Partida](https://imgur.com/F1s4k3n.png) ![DentroDaPartida](https://imgur.com/GZhigU9.png) ![Nickname](https://imgur.com/GlEzmOM.png)
+
+#### LINGUAGENS USADAS
+
+![/Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
